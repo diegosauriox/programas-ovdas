@@ -1,0 +1,27 @@
+Se extraerá el contenido de cada variable que esté un salto más abajo que su nombre.
+
+Conexión con tablas:
+user=
+teamRegistro
+pass=
+regiStro753
+db=
+ufro_ovdas_v1
+host=
+172.22.131.68:3306
+
+Conexión con trazas:
+hostWWS=
+146.83.206.104
+portWWS=
+29384
+
+Fechas a analizar (formato yyyy-mm-dd HH:MM:SS.FFF):
+inicio=
+2018-01-01 00:00:00.000
+fin=
+2018-01-01 01:00:00.000
+
+¿Se actualizan los datos que ya están o tabla 2? (1 para actualizar. 0 para omitir repetidos)
+sobreescribir=
+1
